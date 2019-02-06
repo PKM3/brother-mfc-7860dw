@@ -1,2 +1,5 @@
 
 name: Go
+
+on:
+  push:

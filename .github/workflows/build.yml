@@ -4,3 +4,4 @@ name: Go
 on:
   push:
     branches: [ "main" ]
+  pull_request:

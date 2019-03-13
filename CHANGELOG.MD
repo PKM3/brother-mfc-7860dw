@@ -8,3 +8,7 @@
 #
 
 ## Now gocheckitout handle http body response (optionally) in CLI, benchmark: **0.68s user 0.49s system 19% cpu 5.925 total.** (Pop!_OS 22.04 LTS).
+
+#
+
+## The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),

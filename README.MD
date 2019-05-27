@@ -28,3 +28,5 @@ go run main.go
 ```
 
 **and if you want to make benchmark of the project**
+
+```sh

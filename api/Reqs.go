@@ -10,3 +10,6 @@ import (
 //Make request returning only the url and the status code.
 func MakeRequest(url string) error {
 	res, err := helpers.Requester(url)
+
+	if err != nil {
+		return err

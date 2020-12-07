@@ -21,4 +21,4 @@ https://www.office.com
 https://www.samsung.com
 https://www.turbopages.org
 https://www.vk.com
-https
+https:

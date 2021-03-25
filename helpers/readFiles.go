@@ -16,3 +16,5 @@ func ReadFiles(path string, rChan chan []string) chan []string {
 	if err != nil {
 		log.Fatal(err)
 	}
+
+	defer file.Close()

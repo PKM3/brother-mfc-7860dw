@@ -28,3 +28,4 @@ func ReadFiles(path string, rChan chan []string) chan []string {
 		if err == io.EOF {
 			break
 		}
+	}

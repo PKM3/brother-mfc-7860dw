@@ -9,4 +9,4 @@ import (
 	utils "github.com/leoff00/gocheckitout/utils"
 )
 
-//Helper to make request with op
+//Helper to make request with opti

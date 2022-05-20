@@ -24,3 +24,4 @@ func Requester(url string) (*utils.Custom, error) {
 		Url:        res.Request.URL,
 		Timestamp:  currTime.String(),
 	}
+

@@ -26,3 +26,4 @@ func Requester(url string) (*utils.Custom, error) {
 	}
 
 	if err != nil {
+

@@ -10,3 +10,4 @@ func WelcomeLog() {
 		"2 - Make a request with some details", "\n",
 		"3 - For exit CLI menu",
 	)
+}

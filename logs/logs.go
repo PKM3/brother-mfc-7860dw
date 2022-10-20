@@ -17,3 +17,4 @@ func InvalidOperation() {
 }
 
 func Exiting() {
+	fmt.Println("Exiting...")

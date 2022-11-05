@@ -13,3 +13,4 @@ import (
 )
 
 func readOptionCode() int16 {
+	var code int16

@@ -30,3 +30,4 @@ func main() {
 	readedCode := readOptionCode()
 
 	switch readedCode {
+	case 1:

@@ -46,3 +46,4 @@ func main() {
 			wg.Add(1)
 			go func(nUrl string) {
 				err := api.MakeRequestWithDetails(nUrl)
+				if err != nil {

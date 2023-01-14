@@ -50,3 +50,4 @@ func main() {
 					log.Default().Fatal("Cannot make request correctly.", err)
 				}
 				defer wg.Done()
+			}(url)

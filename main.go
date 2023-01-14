@@ -47,3 +47,4 @@ func main() {
 			go func(nUrl string) {
 				err := api.MakeRequestWithDetails(nUrl)
 				if err != nil {
+					log.Default().Fatal("Cannot make request correctly.", err)

@@ -53,3 +53,4 @@ func main() {
 			}(url)
 		}
 	case 3:
+		logs.Exiting()

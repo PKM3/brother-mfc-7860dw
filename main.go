@@ -55,3 +55,5 @@ func main() {
 	case 3:
 		logs.Exiting()
 		os.Exit(0)
+
+	default:

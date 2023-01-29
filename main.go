@@ -57,3 +57,4 @@ func main() {
 		os.Exit(0)
 
 	default:
+		logs.InvalidOperation()
